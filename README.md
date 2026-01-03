@@ -1,4 +1,4 @@
-# Simple-Clip-Path---Basic-Path
+# Simple Clip Path as Basic Path
 
 CSS Clip Path as below image.
 
